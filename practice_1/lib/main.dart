@@ -10,7 +10,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://wallpaperaccess.com/full/30100.jpg'),
+            image: AssetImage('images/wallpaper.jpg'),
           ),
         ),
       ),
